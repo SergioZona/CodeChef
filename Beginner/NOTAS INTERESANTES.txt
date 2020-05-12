@@ -1,0 +1,1 @@
+-Si se tiene que manejar datos de tipo int, demasiado grandes, entonces es mejor utilizar Python. Pues este no limita dichos datos. Sin embargo, estos datos pueden ser utilizados en Java o C++ si se optimiza el código y se guardan los valores en arreglos.
